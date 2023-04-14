@@ -263,7 +263,8 @@ body {
   margin-bottom: 2rem;
 }
 
-.card-concentration {
+.card-concentration,
+.card-spotify-playlists {
   margin-top: 20px;
   margin-bottom: 20px;
 }
