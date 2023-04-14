@@ -1,4 +1,4 @@
-# Intrucciones
+# Instrucciones 
 
 comandos utilizados para subir el prouecto al repositorio.
 
