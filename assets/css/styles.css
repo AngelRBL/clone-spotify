@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap');
+
+
+:root {
+  --color-white: white;
+  --color-black: #000;
+  --color-gray: #a7a7a7;
+  --background--black: #121212;
+  --background--gray: #181818;
+}
